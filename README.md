@@ -1,6 +1,6 @@
 # polyArt
 
-Drawing art using a set of polygons. Solution is found using stochaistic gradient descent. Error from target image is computed using the RMSE.
+Drawing art using a set of polygons. This is a hill climbing problem, minimizing the error. Error from target image is computed using the RMSE.
 
 ### To run 
 
